@@ -1,0 +1,11 @@
+{
+  "name": "unitestingtask",
+  "version": "0.0.1",
+  "description": "Unit testing task",
+  "scripts": {
+    "test": "TZ=America/Los_Angeles jest"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
